@@ -32,3 +32,17 @@ ssh-keygen -t ed25519 -C "YOUR_EMAIL" -f ~/.ssh/id_ed25519
 
 
 
+## What it does
+
+ **ssh-keygen creates a key pair:  **
+- **'Private key: ~/.ssh/id_ed25519' (keep secret)**
+- **'Public key: ~/.ssh/id_ed25519.pub' (share with GitHub)**
+- **'t ed25519' → modern secure key type**
+- **C "YOUR_EMAIL" → adds a label so you know what the key is for **
+-f ... → exact save location
+
+##
+##
+##
+##
+
