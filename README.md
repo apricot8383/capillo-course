@@ -1,1 +1,4 @@
-# capillo-course
+# Structure
+- manual/
+- rubrics/
+- templates/
