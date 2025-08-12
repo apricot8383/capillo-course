@@ -1,4 +1,4 @@
-cat > manual/module-0-lab.md <<'EOF'
+
 # Module 0 — Setup & GitHub (macOS, Beginner)
 
 This manual is for absolute beginners. Follow the steps exactly (one block at a time). After each “Checkpoint,” you should see the expected result.
@@ -29,3 +29,4 @@ This manual is for absolute beginners. Follow the steps exactly (one block at a 
 ### 4.1 Create an SSH key (your secure “door key”)
 ```bash
 ssh-keygen -t ed25519 -C "YOUR_EMAIL" -f ~/.ssh/id_ed25519
+
